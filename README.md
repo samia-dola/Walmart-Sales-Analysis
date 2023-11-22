@@ -1,4 +1,4 @@
-# Walmart-Sales-Analysis
+![Sales   Revenue calculation](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/789a6198-dff7-40bd-bf25-d556e4fd2dd1)# Walmart-Sales-Analysis
 ## Table of Contents
 - [Introduction](Introduction)
 - [Purpose of the Project](Purpose-of-the-Project)
@@ -92,19 +92,43 @@ The aim of sales analysis is to answer the question of the sales trends of produ
 3. What is the total monthly revenue?
 4. Which month had the highest sales volume?
 5. Which month had the highest COGS?
-6. Which customer types generated the most revenue?
-7. Which city has the highest VAT (Value Added Tax) percentage?
-8. Which type of consumer paid the most in VAT?
+6. Which customer type generated the most revenue? 
+7. Which city has the highest VAT (Value Added Tax)?
+8. From which city most of the VAT was collected in total?
 9. What is the most popular mode of payment?
 10. Which city has the highest revenue?
 
 ### -Customer Analysis
 Analysis about customer uses to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 1. How many unique customer types are there in the sales table?
-2. Which consumer type makes the most purchases?
-3. Which gender are the majority of the customers?
-4. What is the gender breakdown by branch?
-5. At what time of day do consumers provide the most ratings?
-6. At what time of day do consumers offer the highest reviews per branch?
-7. Which day of the week has the highest average rating?
-8. Which day of the week has the highest average branch ratings?
+2. Which customer type makes the most purchase?
+3. What is the gender of majority of the customers?
+4. What is the average VAT paid by each customer type?
+5. Which customer type paid the most VAT?
+6. What is the gender breakdown by branch?
+7. At what time of the day customers provide the most ratings?
+8. At what time of the day branches recive the highest reviews from customers?
+9. Which day of the week has the highest average rating?
+10. Which day of the week has the highest average branch ratings?
+
+## 5. Revenue And Profit Calculations
+
+![Sales   Revenue calculation](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/74ca54a4-1b0b-4edc-a765-56444bd6ee49)
+
+## 6. Project Insights
+In this data analysis project, I embarked on a journey to gain valuable insights from Walmart’s sales data. I satrted the work by preparing and exploring the dataset, cleaning any missing or null values, and engineering new features to help us uncover meaningful patterns.
+
+I addressed a variety of questions, ranging from understanding product performance and sales trends to diving into customer behavior. These insights are crucial for Walmart’s sales strategies and can guide future optimizations.
+
+Throughout the analysis, I made use of SQL queries to extract relevant information from the dataset. I also computed important metrics such as COGS (Cost of Goods Sold), VAT (Value Added Tax), total revenue, and gross profit to better understand the financial aspects of Walmart’s operations.
+
+**Some key insights from the analysis include:**
+
+- Identification of top-performing product lines and branches.
+- Analysis of sales trends, which can inform sales strategies and modifications.
+- Profiling of customer segments and their profitability.
+  
+The data-driven decisions made possible through this analysis can contribute to improved sales strategies, inventory management, and overall business performance.
+
+## 7. Conclusion
+While this project has provided valuable insights, it’s important to note that data analysis is an ongoing process. As Walmart continues to collect sales data, the potential for further analysis and refinement of strategies remains. This project serves as a foundation for future endeavors in enhancing Walmart’s sales forecasting and optimizing its operations.
