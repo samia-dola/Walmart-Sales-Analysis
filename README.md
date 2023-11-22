@@ -1,15 +1,15 @@
 # Walmart-Sales-Analysis
 ## Table of Contents
-- [Introduction](Introduction)
-- [Purpose of the Project](Purpose-of-the-Project)
-- [Dataset](Dataset)
-- [Project Analysis](Project-Analysis)
-  - [Data Wrangling](Data-Wrangling)
-  - [Feature Engineering](Feature-Engineering)
-  - [Exploratory Data Analysis (EDA)](Exploratory-Data-Analysis-(EDA))
-- [Revenue And Profit Calculations](Revenue-And-Profit-Calculations)
-- [Project Insights](Project-Insights)
-- [Conclusion](Conclusion)
+- [Introduction](#Introduction)
+- [Purpose of the Project](#Purpose-of-the-Project)
+- [Dataset](#Dataset)
+- [Project Analysis](#Project-Analysis)
+  - [Data Wrangling](#Data-Wrangling)
+  - [Feature Engineering](#Feature-Engineering)
+  - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Revenue And Profit Calculations](#Revenue-And-Profit-Calculations)
+- [Project Insights](#Project-Insights)
+- [Conclusion](#Conclusion)
 
 ## 1. Introduction
 This project is about to explore the 1st quater sales of Walmart in three citites Oceanside, Calexico, Indio of California state,USA to comprehend top-performing branches and items, sales trends for various products, and consumer behavior. The objective of this project is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
