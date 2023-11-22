@@ -3,7 +3,7 @@
 - [Introduction](Introduction)
 - [Purpose of the Project](Purpose-of-the-Project)
 - [Dataset](Dataset)
-- [Used Approach](Used-Approach)
+- [Project Analysis](Project-Analysis)
   - [Data Wrangling](Data-Wrangling)
   - [Feature Engineering](Feature-Engineering)
   - [Exploratory Data Analysis (EDA)](Exploratory-Data-Analysis-(EDA))
@@ -18,12 +18,12 @@ As the dataset is consists of old data I did few changes like the date and city.
 ## 2. Purpose of the Project 
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-## 3. Dataset
+## 3. [Dataset](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Analysis.csv)
 This dataset contains sales transactions from a three different branches of Walmart in Calfornia state, respectively located in Oceanside, Calexico, Indio . The data contains 17 columns and 1001 rows with heading. 
 
 ![data type](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/10eb85a4-f607-46d8-bb36-38cbf54e2775)
 
-## 4. Used Approach 
+## 4. [Project Analysis](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Analysis%20queries.sql)
 ### a. Data Wrangling
 
 This is the first step where **duplicate** values are identified. Also, **null** and **missing** values are detected and data replacement methods are used to replace, **missing** or **null** values.
@@ -113,7 +113,7 @@ This is the first step where **duplicate** values are identified. Also, **null**
 9. Which day of the week has the highest average rating?
 10. Which day of the week has the highest average branch ratings?
 
-## 5. Revenue And Profit Calculations
+## 5. [Revenue And Profit Calculations](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/sales%20%26%20revenue%20queries.sql)
 
 ![Sales   Revenue calculation](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/74ca54a4-1b0b-4edc-a765-56444bd6ee49)
 
