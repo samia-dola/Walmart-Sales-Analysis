@@ -79,7 +79,7 @@ Conduct the product analysis on data to understand the different product lines, 
 1. How many unique product lines are there in the sales table?
 2. Which product line is the most popular?
 3. Which product line generated the maximum revenue?
-4. Which product category had the highest VAT percentage?
+4. Which product category had the highest VAT?
 5. What is the product quality by product category when average sales are less than 5.5?
 6. Which branch sold more products than average product sold?
 7. What is the most popular product line based on gender?
