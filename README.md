@@ -34,10 +34,13 @@ This is the first step where **duplicate** values are identified. Also, **null**
 
 #### -Create table and insert the data
   ![create table](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/2f26e8ad-c93a-46a5-9720-99ebcb374c80)
+  
   **Import Data from CSV**
   ![import data](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/c14ca755-36ad-4a4f-8b5c-f9d532937dd3)
   After creating a database, it’s time to import data from a CSV file. For this select import and a new window will open Select the path from the local machine.
+  
   *A snippet of the table view*
+  
   ![table](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/ffdb40e6-0037-404c-b9e0-c51022131978)
   
 #### - Check if any duolicate and null values exist.
