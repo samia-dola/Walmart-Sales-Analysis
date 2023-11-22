@@ -1,15 +1,15 @@
 # Walmart-Sales-Analysis
 ## Table of Contents
-- [Introduction](#Introduction)
-- [Purpose of the Project](#Purpose-of-the-Project)
-- [Dataset](#Dataset)
-- [Project Analysis](#Project-Analysis)
-  - [Data Wrangling](#Data-Wrangling)
-  - [Feature Engineering](#Feature-Engineering)
-  - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
-- [Revenue And Profit Calculations](#Revenue-And-Profit-Calculations)
-- [Project Insights](#Project-Insights)
-- [Conclusion](#Conclusion)
+- [Introduction](https://github.com/samia-dola/Walmart-Sales-Analysis/edit/main/README.md#1-introduction)
+- [Purpose of the Project](https://github.com/samia-dola/Walmart-Sales-Analysis#2-purpose-of-the-project)
+- [Dataset](https://github.com/samia-dola/Walmart-Sales-Analysis#3-dataset)
+- [Project Analysis](https://github.com/samia-dola/Walmart-Sales-Analysis#4-project-analysis)
+  - [Data Wrangling](https://github.com/samia-dola/Walmart-Sales-Analysis#a-data-wrangling)
+  - [Feature Engineering](https://github.com/samia-dola/Walmart-Sales-Analysis#b-feature-engineering)
+  - [Exploratory Data Analysis (EDA)](https://github.com/samia-dola/Walmart-Sales-Analysis#c-exploratory-data-analysis-eda)
+- [Revenue And Profit Calculations](https://github.com/samia-dola/Walmart-Sales-Analysis#5-revenue-and-profit-calculations)
+- [Project Insights](https://github.com/samia-dola/Walmart-Sales-Analysis#6-project-insights)
+- [Conclusion](https://github.com/samia-dola/Walmart-Sales-Analysis#7-conclusion)
 
 ## 1. Introduction
 This project is about to explore the 1st quater sales of Walmart in three citites Oceanside, Calexico, Indio of California state,USA to comprehend top-performing branches and items, sales trends for various products, and consumer behavior. The objective of this project is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
