@@ -20,6 +20,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 ## 3. Dataset
 This dataset contains sales transactions from a three different branches of Walmart in Calfornia state, respectively located in Oceanside, Calexico, Indio . The data contains 17 columns and 1001 rows with heading. 
+
 ![data type](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/10eb85a4-f607-46d8-bb36-38cbf54e2775)
 
 ## 4. Used Approach 
@@ -49,15 +50,15 @@ Remove duplicates values and select columns with null values in them. There are 
 This will help use generate some new columns from existing ones.
 
 - Add a new column named **time_of_day** to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
-- 
+  
 ![time of day](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/d5d381b0-6b4d-4a52-b917-bdda8dc0e878)
 
 - Add a new column named **day_name** that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week     of the day each branch is busiest.
-- 
+  
 ![day name](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/cce710b4-ace5-4562-aba8-b14eae259a89)
 
 - Add a new column named **month_name** that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales   and profit.
-- 
+ 
 ![month name](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/4e778a3a-ff14-470b-91b9-72c8e7c656be)
 
 *An updated data set with day_name, month_name and time_of_day*
