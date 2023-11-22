@@ -7,7 +7,8 @@
   - [Data Wrangling](Data-Wrangling)
   - [Feature Engineering](Feature-Engineering)
   - [Exploratory Data Analysis (EDA)](Exploratory-Data-Analysis-(EDA))
-- [Insights from Case Study](Insights-from-Case-Study)
+- [Revenue And Profit Calculations](Revenue-And-Profit-Calculations)
+- [Project Insights](Project-Insights)
 - [Conclusion](Conclusion)
 
 ## 1. Introduction
@@ -63,42 +64,40 @@ Exploratory data analysis(EDA) is the method to answer and analyse the business 
 The answer of the following questions will be used to analyse the Walmart Sales project:
 
 ### -Generic Question
--- 1. How many cities are included in the dataset?
--- 2. How many branches are there in each city?
+1. How many cities are included in the dataset?
+2. How many branches are there in each city?
 
 ### -Product Analysis
-Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
-How many unique product lines does the data have?
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
+Conduct the product analysis on data to understand the different product lines, best performing product lines and the product lines that need to be improved.
+1. How many unique product lines are there in the sales table?
+2. Which product line is the most popular?
+3. Which product line generated the maximum revenue?
+4. Which product category had the highest VAT percentage?
+5. What is the product quality by product category when average sales are less than 5.5?
+6. Which branch sold more products than average product sold?
+7. What is the most popular product line based on gender?
+8. What is the average rating of each product line?
 
 ### -Sales Analysis
-This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
-Number of sales made in each time of the day per weekday
-Which of the customer types brings the most revenue?
-Which city has the largest tax percent/ VAT (Value Added Tax)?
-Which customer type pays the most in VAT?
+The aim of sales analysis is to answer the question of the sales trends of product. The result will use to measure the effectiveness of each sales strategy the business applies and what modificatoins need to gain more sales.
+1. When are the most sales made during the day?
+2. Which day of the week has the highest sales?
+3. What is the total monthly revenue?
+4. Which month had the highest sales volume?
+5. Which month had the highest COGS?
+6. Which customer types generated the most revenue?
+7. Which city has the highest VAT (Value Added Tax) percentage?
+8. Which type of consumer paid the most in VAT?
+9. What is the most popular mode of payment?
+10. Which city has the highest revenue?
 
 ### -Customer Analysis
-This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
-How many unique customer types does the data have?
-How many unique payment methods does the data have?
-What is the most common customer type?
-Which customer type buys the most?
-What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
-
-
+Analysis about customer uses to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+1. How many unique customer types are there in the sales table?
+2. Which consumer type makes the most purchases?
+3. Which gender are the majority of the customers?
+4. What is the gender breakdown by branch?
+5. At what time of day do consumers provide the most ratings?
+6. At what time of day do consumers offer the highest reviews per branch?
+7. Which day of the week has the highest average rating?
+8. Which day of the week has the highest average branch ratings?
