@@ -19,7 +19,7 @@ As the dataset is consists of old data I did few changes like the date and city.
 The major aim of the project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 ## 3. [Dataset](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Analysis.csv)
-This dataset contains sales transactions from a three different branches of Walmart in California state, respectively located in Oceanside, Calexico, Indio. The data contains 17 columns and 1001 rows with headings. 
+This dataset contains sales transactions from three different branches of Walmart in California state, respectively located in Oceanside, Calexico, Indio. The data contains 17 columns and 1001 rows with headings. 
 
 ![data type](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/10eb85a4-f607-46d8-bb36-38cbf54e2775)
 
