@@ -16,7 +16,7 @@ This project is about to explore the 1st quater sales of Walmart in three citite
 As the dataset is consists of old data I did few changes like the date and city.
 
 ## 2. Purpose of the Project 
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+The major aim of the project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 ## 3. [Dataset](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Analysis.csv)
 This dataset contains sales transactions from a three different branches of Walmart in Calfornia state, respectively located in Oceanside, Calexico, Indio . The data contains 17 columns and 1001 rows with heading. 
