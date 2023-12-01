@@ -104,12 +104,12 @@ The aim of the sales analysis is to answer the question about the sales trends o
   Analysis about customer uses to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 1. How many unique customer types are there in the sales table?
 2. Which customer type makes the most purchase?
-3. What is the gender of majority of the customers?
+3. What is the gender of most of the customers?
 4. What is the average VAT paid by each customer type?
 5. Which customer type paid the most VAT?
 6. What is the gender breakdown by branch?
-7. At what time of the day customers provide the most ratings?
-8. At what time of the day branches recive the highest reviews from customers?
+7. At what time of the day do customers provide the most ratings?
+8. At what time of the day branches receive the highest reviews from customers?
 9. Which day of the week has the highest average rating?
 10. Which day of the week has the highest average branch ratings?
 
@@ -118,7 +118,7 @@ The aim of the sales analysis is to answer the question about the sales trends o
 ![Sales   Revenue calculation](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/74ca54a4-1b0b-4edc-a765-56444bd6ee49)
 
 ## 6. Project Insights
-In this data analysis project, I embarked on a journey to gain valuable insights from Walmart’s sales data. I satrted the work by preparing and exploring the dataset, cleaning any missing or null values, and engineering new features to help us uncover meaningful patterns.
+In this data analysis project, I embarked on a journey to gain valuable insights from Walmart’s sales data. I started the work by preparing and exploring the dataset, cleaning any missing or null values, and engineering new features to help us uncover meaningful patterns.
 
 I addressed a variety of questions, ranging from understanding product performance and sales trends to diving into customer behavior. These insights are crucial for Walmart’s sales strategies and can guide future optimizations.
 
