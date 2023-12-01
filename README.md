@@ -12,14 +12,14 @@
 - [Conclusion](https://github.com/samia-dola/Walmart-Sales-Analysis#7-conclusion)
 
 ## 1. Introduction
-This project is about to explore the 1st quater sales of Walmart in three citites Oceanside, Calexico, Indio of California state,USA to comprehend top-performing branches and items, sales trends for various products, and consumer behavior. The objective of this project is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
+This project is about to explore the 1st quarter sales of Walmart in three cities Oceanside, Calexico, Indio of California state, USA to comprehend top-performing branches and items, sales trends for various products, and consumer behavior The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
 As the dataset is consists of old data I did few changes like the date and city.
 
 ## 2. Purpose of the Project 
 The major aim of the project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 ## 3. [Dataset](https://github.com/samia-dola/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Analysis.csv)
-This dataset contains sales transactions from a three different branches of Walmart in Calfornia state, respectively located in Oceanside, Calexico, Indio . The data contains 17 columns and 1001 rows with heading. 
+This dataset contains sales transactions from a three different branches of Walmart in California state, respectively located in Oceanside, Calexico, Indio. The data contains 17 columns and 1001 rows with headings. 
 
 ![data type](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/10eb85a4-f607-46d8-bb36-38cbf54e2775)
 
@@ -45,13 +45,13 @@ This is the first step where **duplicate** values are identified. Also, **null**
   Remove duplicates values and select columns with null values in them. There are no duplicate and null values in our database as in creating the tables, we set NOT NULL for each field, hence null values   are filtered out.
 
 ### b. Feature Engineering
-  This will help use generate some new columns from existing ones.
+  This will help us generate some new columns from existing ones.
 
 - Add a new column named **time_of_day** to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
   
   ![time of day](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/d5d381b0-6b4d-4a52-b917-bdda8dc0e878)
 
-- Add a new column named **day_name** that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week     of the day each branch is busiest.
+- Add a new column named **day_name** that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thu, Fri). This will help answer the question on which week     of the day each branch is busiest.
   
   ![day name](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/cce710b4-ace5-4562-aba8-b14eae259a89)
 
@@ -64,9 +64,9 @@ This is the first step where **duplicate** values are identified. Also, **null**
   ![Updated Table](https://github.com/samia-dola/Walmart-Sales-Analysis/assets/150064729/0b883fa8-88ef-45bb-8ef8-fd27026e2c78)
 
 ### c. Exploratory Data Analysis (EDA) 
-    Exploratory data analysis(EDA) is the method to answer and analyse the business questions of this project.
+    Exploratory data analysis (EDA) is the method to answer and analyse the business questions of this project.
 
-    The answer of the following questions will be used to analyse the Walmart Sales project:
+    The answer to the following questions will be used to analyse the Walmart Sales project:
 
 - ***Generic Question***
 
@@ -75,19 +75,19 @@ This is the first step where **duplicate** values are identified. Also, **null**
 
 - ***Product Analysis***
 
-  Conduct the product analysis on data to understand the different product lines, best performing product lines and the product lines that need to be improved.
+  Conduct the product analysis of data to understand the different product lines, best performing product lines and the product lines that need to be improved.
 1. How many unique product lines are there in the sales table?
 2. Which product line is the most popular?
 3. Which product line generated the maximum revenue?
 4. Which product category had the highest VAT?
-5. What is the product quality by product category when average sales are less than 5.5?
+5. What is the product quality by product category when the average sales are less than 5.5?
 6. Which branch sold more products than average product sold?
 7. What is the most popular product line based on gender?
 8. What is the average rating of each product line?
 
 - ***Sales Analysis***
 
-  The aim of sales analysis is to answer the question of the sales trends of product. The result will use to measure the effectiveness of each sales strategy the business applies and what modificatoins     need to gain more sales.
+The aim of the sales analysis is to answer the question about the sales trends of product. The result will be used to measure the effectiveness of each sales strategy the business applies to and what modifications are needed to gain more sales.
 1. When are the most sales made during the day?
 2. Which day of the week has the highest sales?
 3. What is the total monthly revenue?
